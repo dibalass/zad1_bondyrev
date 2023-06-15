@@ -1,0 +1,14 @@
+C:\Users\305-12\Desktop\Бондырев\zad1\bin\Debug\zad1.exe.config
+C:\Users\305-12\Desktop\Бондырев\zad1\bin\Debug\zad1.exe
+C:\Users\305-12\Desktop\Бондырев\zad1\bin\Debug\zad1.pdb
+C:\Users\305-12\Desktop\Бондырев\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Бондырев\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Бондырев\zad1\obj\Debug\zad1.exe
+C:\Users\305-12\Desktop\Бондырев\zad1\obj\Debug\zad1.pdb
+C:\Users\305-12\Desktop\Бондырев\Учебная практика\zad1\bin\Debug\zad1.exe.config
+C:\Users\305-12\Desktop\Бондырев\Учебная практика\zad1\bin\Debug\zad1.exe
+C:\Users\305-12\Desktop\Бондырев\Учебная практика\zad1\bin\Debug\zad1.pdb
+C:\Users\305-12\Desktop\Бондырев\Учебная практика\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Бондырев\Учебная практика\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Бондырев\Учебная практика\zad1\obj\Debug\zad1.exe
+C:\Users\305-12\Desktop\Бондырев\Учебная практика\zad1\obj\Debug\zad1.pdb
